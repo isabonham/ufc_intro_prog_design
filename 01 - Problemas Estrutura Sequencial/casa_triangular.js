@@ -1,4 +1,3 @@
-// interação com o teclado
 // habilitar o input a partir do teclado
 var lines = require("fs").readFileSync(0).toString().split("\n");
 var input = () => lines.shift;

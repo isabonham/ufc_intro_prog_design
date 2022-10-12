@@ -2,6 +2,7 @@
 var lines = require("fs").readFileSync(0).toString().split("\n");
 var input = () => lines.shift();
 
+
 var mesada_joao = Number(input());
 var mesada_paulo = Number(input());
 var gasto_paulo = Number(input());

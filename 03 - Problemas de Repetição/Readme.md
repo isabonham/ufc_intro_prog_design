@@ -156,7 +156,7 @@ Para calcular a soma você precisa usar uma variável para acumular cada valor l
 - I/O - Saídas (exemplo):
    - O valor da média (duas casas decimais).
 
-# MQuantos Ultrons você vê - Contar Elemento (uma entrada por linha)
+# Quantos Ultrons você vê - Contar Elemento (uma entrada por linha)
 
 **Motivação**
 

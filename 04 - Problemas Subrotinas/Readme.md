@@ -122,11 +122,14 @@ Faça um programa que dado um número N inteiro, sendo 0 < N < 10. Mostre na tel
 - I/O - Saída:
    - Um triângulo isósceles formado apenas pelo numero N e com altura igual a N.
 
+
 - I/O - Entrada (exemplo):
    - 3
 - I/O - Saída (exemplo):
    -   3
+
       3 3
+
      3 3 3
  
 # Raiz Quadrada
@@ -155,7 +158,9 @@ Faça uma função que dado um número natural N mostre na tela um triângulo re
    - 3
 - I/O - Saída (exemplo):
    - 3
+
      1 2
+     
      1 2 3
 
 # End

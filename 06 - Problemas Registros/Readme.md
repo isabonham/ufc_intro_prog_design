@@ -282,14 +282,21 @@ Usando a definição acima, crie um programa que leia uma lista de provas e seus
 
 Considere as seguintes structs que devem ser usadas em seu programa:
 
-```struct Ponto{
-	float x;
-	float y;
-};
-struct Circulo{
-	Ponto centro;
-	float raio;
-};```
+`struct Ponto{`
+
+`	float x;`
+
+`	float y;`
+
+`};`
+
+`struct Circulo{`
+
+`	Ponto centro;`
+
+`	float raio;`
+
+`};`
 Implemente uma função que receba um Ponto e um Circulo e diga se o Ponto está ou não dentro do Circulo.
 
 *Considere um Ponto dentro de um Circulo se a distância entre o Ponto e o centro do Circulo for menor ou igual ao raio do Circulo.*

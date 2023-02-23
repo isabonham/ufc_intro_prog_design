@@ -4,7 +4,7 @@
 
 Considere o seguinte formato de dicionário que deve ser usado em seu programa:
 
-registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}
+`registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}`
 
 Usando a definição acima, crie um programa que possua uma função de leitura dos valores do dicionário (registro) de um aluno, lidos do usuário, e outra função que receba um dicionário (registro) de um aluno e imprima
 
@@ -28,7 +28,7 @@ Seu programa deve então ler os dados de um aluno usando dicionário e fazer uso
 
 Considere o seguinte formato de dicionário que deve ser usado em seu programa:
 
-registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}
+`registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}`
 
 Usando a definição acima, crie um programa que possua uma função de leitura dos valores de registro de aluno, lidos do usuário, e outra função que receba dois registros de aluno e imprima o nome do aluno com a maior nota e sua nota.
 
@@ -52,7 +52,7 @@ Seu programa deve então ler os valores dos registros dos dois alunos e fazer us
 
 Considere o seguinte formato de dicionário que deve ser usado em seu programa:
 
-registro_aluno = {"Nome": Joao, "Notas": [8.5,7,6]}
+`registro_aluno = {"Nome": Joao, "Notas": [8.5,7,6]}`
 
 Usando a definição acima, crie um programa que possua uma função de leitura dos valores do dicionário (registro) de um aluno e outra função que receba uma lista de dicionários (registros de aluno) e imprima apenas os dados (nome do aluno e média) dos alunos aprovados por média (média maior ou igual a 7). O programa deve ler a quantidade de alunos e preencher uma lista de alunos (dados informados pelo usuário). A média deve ser impressa com até duas casas decimais.
 
@@ -80,7 +80,7 @@ Usando a definição acima, crie um programa que possua uma função de leitura 
 
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:
 
-data = {"Dia": \*\*, "Mes": \*\*, "Ano": \*\*\*\*}
+`data = {"Dia": \*\*, "Mes": \*\*, "Ano": \*\*\*\*}`
 
 Usando a definição acima, crie um programa que leia duas datas (dicionários do tipo mostrado acima) e imprima "Iguais" se as duas datas são iguais, "Mais antiga" se a primeira data for mais antiga que a segunda e "Mais recente" se a primeira data for mais recente que a segunda. As datas serão passadas na ordem: dia, mês, ano.
 
@@ -100,7 +100,7 @@ Usando a definição acima, crie um programa que leia duas datas (dicionários d
 
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:
 
-data = {"Dia:" \*\*, "Mes:" \*\*, "Ano:" \*\*\*\*}
+`data = {"Dia:" \*\*, "Mes:" \*\*, "Ano:" \*\*\*\*}`
 
 Usando a definição acima, crie um programa que leia duas datas (dicionários do tipo mostrado acima) e imprima "Iguais" se as duas datas são iguais e "Diferentes" caso contrário. As datas serão passadas na ordem: dia, mês, ano.
 
@@ -120,7 +120,7 @@ Usando a definição acima, crie um programa que leia duas datas (dicionários d
 
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:
 
-personagem = {"Vida:" \*\*\*, "Ataque:" \*\*\*}
+`personagem = {"Vida:" \*\*\*, "Ataque:" \*\*\*}`
 
 Usando a definição acima, crie um programa que leia os dados (vida e ataque) de dois personagens, representados por um dicionário do tipo mostrado acima, e implemente a função duelo:
 
@@ -139,7 +139,7 @@ A função duelo recebe como entrada dois dicionários, onde cada um deles repre
 
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:
 
-expressao = {"Num1": \*\*\*, "Num2": \*\*\*, "Operador": \*\*\*}
+`expressao = {"Num1": \*\*\*, "Num2": \*\*\*, "Operador": \*\*\*}`
 
 Crie um programa que leia do usuário dois números reais e um operador do tipo char, preenchendo um dicionário do tipo expressão mostrado acima, e implemente uma função que receba um dicionário do tipo expressão e imprima o valor da expressão dada pelo número 1, operador e número 2.
 
@@ -156,7 +156,7 @@ Crie um programa que leia do usuário dois números reais e um operador do tipo 
 
 Considere o seguinte formato de dicionário (registro de aluno) que deve ser usado em seu programa:
 
-registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}
+`registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}`
 
 Usando a definição acima, crie um programa que possua uma função de leitura dos valores, lidos do usuário, para um registro de aluno e outra função que receba um registro de aluno e imprima todos os valores dos campos desse registro.
 
@@ -180,7 +180,7 @@ Seu programa deve então ler os valores do registro de um aluno e fazer uso da f
 
 Considere o seguinte formato de dicionário que deve ser usado em seu programa:
 
-registro_aluno = {"Nome": Joao, "Notas": [8.5, 7.6]}
+`registro_aluno = {"Nome": Joao, "Notas": [8.5, 7.6]}`
 
 Usando a definição acima, crie um programa que possua uma função de leitura dos valores do dicionário (registro) de um aluno e outra função que receba uma lista de dicionários (registros de aluno) e imprima a média das médias desses alunos. O programa deve ler a quantidade de alunos e preencher uma lista de alunos (dados informados pelo usuário). O valor de saída deve ter até duas casas decimais.
 
@@ -204,7 +204,7 @@ Usando a definição acima, crie um programa que possua uma função de leitura 
 
 Considere o seguinte formato de dicionário que deve ser usado em seu programa:
 
-registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}
+`registro_aluno = {"Nome": Joao, "Matricula": 1, "Disciplina": FUP, "Nota": 8.5}`
 
 Usando a definição acima, crie um programa que possua uma função de leitura dos valores do dicionário (registro) de um aluno e outra função que receba dois dicionários (registros) de aluno e retorne a média das notas dos dois alunos.
 
@@ -229,7 +229,7 @@ Seu programa deve então ler os valores dos registros dos dois alunos e fazer us
 
 Considere o seguinte formato de dicionário que deve ser usado em seu programa:
 
-registro_aluno = {"Nome": Joao, "Notas": [8.5, 7.6]}
+`registro_aluno = {"Nome": Joao, "Notas": [8.5, 7.6]}`
 
 Usando a definição acima, crie um programa que possua uma função de leitura dos valores do dicionário (registro) de um aluno e outra função que receba um dicionário (registro de aluno) e imprima a média das notas desse aluno. O valor de saída deve ter até duas casas decimais.
 
@@ -248,7 +248,7 @@ Usando a definição acima, crie um programa que possua uma função de leitura 
 
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:
 
-expressao = {"Soma": \*\*\*, "Subtracao": \*\*\*, "Divisao": \*\*\*, "Multiplicacao": \*\*\*}
+`expressao = {"Soma": \*\*\*, "Subtracao": \*\*\*, "Divisao": \*\*\*, "Multiplicacao": \*\*\*}`
 
 Crie um programa que leia do usuário dois números reais e calcule o valor de cada uma das operações do dicionário, preenchendo-o. Por fim, imprima os resultados na ordem: soma, subtração, divisão e multiplicação.
 
@@ -264,7 +264,7 @@ Crie um programa que leia do usuário dois números reais e calcule o valor de c
 
 Considere o seguinte formato de dicionário que deve ser usada em seu programa:
 
-prova = {"Nota: \*\*\*, "Peso": \*\*\*}
+`prova = {"Nota: \*\*\*, "Peso": \*\*\*}`
 
 Usando a definição acima, crie um programa que leia uma lista de provas e seus respectivos pesos (deve-se usar uma lista de dicionários do tipo mostrado acima) e imprima a média ponderada dessas notas. O valor impresso deve ter até duas casas decimais.
 
@@ -281,14 +281,15 @@ Usando a definição acima, crie um programa que leia uma lista de provas e seus
 **Motivação**
 
 Considere as seguintes structs que devem ser usadas em seu programa:
-`struct Ponto{`
-`	float x;`
-`	float y;`
-`};`
-`struct Circulo{`
-`	Ponto centro;`
-`	float raio;`
-`};`
+
+```struct Ponto{
+	float x;
+	float y;
+};
+struct Circulo{
+	Ponto centro;
+	float raio;
+};```
 Implemente uma função que receba um Ponto e um Circulo e diga se o Ponto está ou não dentro do Circulo.
 
 *Considere um Ponto dentro de um Circulo se a distância entre o Ponto e o centro do Circulo for menor ou igual ao raio do Circulo.*
